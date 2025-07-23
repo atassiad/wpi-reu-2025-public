@@ -9,7 +9,7 @@ Welcome to the **Visualized Log Anomaly Exploration** information page. Here, yo
 ### Website Info & Link
 Our interactive demo site enables users to visualize log anomalies, query system issues, and understand the reasoning behind anomalies using LLM-powered explanations.  
 [**Visit the KRONE Website**](PLACE_WEBSITE_LINK_HERE)
-
+![KRONE Screenshot](./Krone_Website_Img.png)
 Additional settings and configurations are available on the **Settings** page.
 
 ---
