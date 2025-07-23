@@ -53,5 +53,10 @@ On average, participants completed the tasks in **5 minutes and 8.6 seconds** wi
 
 ---
 
+### Acknowledgements
+Thanks to: ​
+NSF for funding our project (#2349370)
+
+---
 ### References
 [1] Brooke, J. (1996). SUS: A “quick and dirty” usability scale. In P. W. Jordan, B. Thomas, B. A. Weerdmeester, & I. L. McClelland (Eds.), *Usability Evaluation in Industry* (pp. 189–194). London: Taylor & Francis.
