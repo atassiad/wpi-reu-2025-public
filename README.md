@@ -60,4 +60,5 @@ NSF for funding our project (#2349370)
 ---
 ### References
 [1] Brooke, J. (1996). SUS: A “quick and dirty” usability scale. In P. W. Jordan, B. Thomas, B. A. Weerdmeester, & I. L. McClelland (Eds.), *Usability Evaluation in Industry* (pp. 189–194). London: Taylor & Francis.
+
 [2] IBM and Ponemon Institute. (2024). *Cost of a data breach report 2024*. IBM. https://wp.table.media/wp-content/uploads/2024/07/30132828/Cost-of-a-Data-Breach-Report-2024.pdf
