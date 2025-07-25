@@ -15,7 +15,7 @@ Additional settings and configurations are available on the **Settings** page.
 ---
 
 ### Poster & Paper
-- [**Poster PDF**](./Krone_Website_Img.png)  
+- [**Poster PDF**](./LAAP%20Poster%2028%20x%2036%20-%20Athanasios%20Tassiadamis%20-%20Suhani%20Chaudhary-%20Ethan%20Shanbaum.pdf)  
 - Reference our work in: *Chaudhary, S., Shanbaum, E., & Tassiadamis, A. (2025, July). Log Anomaly Analytics Platform: Pinpoint, Explain, and Query System Issues [Poster presentation]. WPI Data Science REU 2025, Worcester, MA, United States.*
 
 ---
