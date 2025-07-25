@@ -8,15 +8,15 @@ Welcome to the **Visualized Log Anomaly Exploration** information page. Here, yo
 
 ### Website Info & Link
 Our interactive demo site enables users to visualize log anomalies, query system issues, and understand the reasoning behind anomalies using LLM-powered explanations.  
-[**Visit the KRONE Website**](PLACE_WEBSITE_LINK_HERE)
-![KRONE Screenshot](./Krone_Website_Img.png)
+[**Visit the KRONE Website**](laapdemo.vercel.app)
+![KRONE Screenshot](./laap_home_screenshot.png)
 Additional settings and configurations are available on the **Settings** page.
 
 ---
 
 ### Poster & Paper
-- [**Poster PDF**](PLACE_POSTER_LINK_HERE)  
-- Reference our work in: *PLACE PAPER CITATION HERE*
+- [**Poster PDF**](./Krone_Website_Img.png)  
+- Reference our work in: *Chaudhary, S., Shanbaum, E., & Tassiadamis, A. (2025, July). Log Anomaly Analytics Platform: Pinpoint, Explain, and Query System Issues [Poster presentation]. WPI Data Science REU 2025, Worcester, MA, United States.*
 
 ---
 
@@ -60,3 +60,4 @@ NSF for funding our project (#2349370)
 ---
 ### References
 [1] Brooke, J. (1996). SUS: A “quick and dirty” usability scale. In P. W. Jordan, B. Thomas, B. A. Weerdmeester, & I. L. McClelland (Eds.), *Usability Evaluation in Industry* (pp. 189–194). London: Taylor & Francis.
+[2] 
