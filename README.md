@@ -8,7 +8,7 @@ Welcome to the **Visualized Log Anomaly Exploration** information page. Here, yo
 
 ### Website Info & Link
 Our interactive demo site enables users to visualize log anomalies, query system issues, and understand the reasoning behind anomalies using LLM-powered explanations.  
-[**Visit the KRONE Website**](https://laapdemo.vercel.app)
+[**Visit the LAAP Website**](https://laapdemo.vercel.app)
 ![KRONE Screenshot](./laap_home_screenshot.png)
 Additional settings and configurations are available on the **Settings** page.
 
