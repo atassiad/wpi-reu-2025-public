@@ -60,4 +60,5 @@ NSF for funding our project (#2349370)
 ---
 ### References
 [1] Brooke, J. (1996). SUS: A “quick and dirty” usability scale. In P. W. Jordan, B. Thomas, B. A. Weerdmeester, & I. L. McClelland (Eds.), *Usability Evaluation in Industry* (pp. 189–194). London: Taylor & Francis.
-[2] 
+
+[2] Kapko, M. (2024, July 30). Global data breach costs reach all-time high of $4.9M, IBM says. Cybersecurity Dive. https://www.cybersecuritydive.com/news/ibm-data-breach-cost-credentials-phishing/722689/
